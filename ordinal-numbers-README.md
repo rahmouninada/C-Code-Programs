@@ -1,4 +1,4 @@
-# Comp-411-C-Code
+# ordinal-numbers
 Program that does the following:
   - prompts the user with "Enter a number from 1 to 20:\n"
   - reads the user's response
