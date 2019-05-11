@@ -1,4 +1,4 @@
-# Comp-411-C-Code
+# triangular-numbers
 Program that does the following:
   - repeatedly reads an integer in decimal format
   - determines if it is a triangular number or not
