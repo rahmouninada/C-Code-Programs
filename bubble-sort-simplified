@@ -1,4 +1,4 @@
-/* C program to bubble sort strings in an array with C string library function s*/
+/* C program to bubble sort strings in an array with C string library functions */
 
 #include <stdio.h>  /* Need for standard I/O functions */
 #include <string.h> /* Need for strlen() */
