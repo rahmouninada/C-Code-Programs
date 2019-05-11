@@ -11,7 +11,7 @@ int main() {
     printf("Enter radius (in cm):\n");
     scanf("%f", &r);
 
-	  r = r / 2.54;
+		r = r / 2.54;
 	  c = 2 * PI * r;
 	  a = PI * r * r;
 
@@ -20,7 +20,7 @@ int main() {
 	    printf("Its circumference is %3.2f (in).\n", c);
 	  }    
     
-	} while(r > 0);
+	} while (r > 0);
 	    printf("Circle's area is %3.2f (sq in).\n", a);
 	    printf("Its circumference is %3.2f (in).\n", c);
-  }
+}
